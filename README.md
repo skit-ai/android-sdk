@@ -14,14 +14,14 @@ This library is hosted on [bintray](https://bintray.com/axay/maven/chat-sdk/0.3.
 
 Add this dependency to your build.gradle file :
 
-    compile 'ai.vernacular:chat-sdk:0.3.6'
+    compile 'ai.vernacular:chat-sdk:0.4.0'
 
 Or if you are using maven :
 ```xml
 <dependency>
   <groupId>ai.vernacular</groupId>
   <artifactId>chat-sdk</artifactId>
-  <version>0.3.6</version>
+  <version>0.4.0</version>
   <type>pom</type>
 </dependency>
 ```
@@ -90,14 +90,14 @@ VernacularSdk.login(user);
 
 **Replace** the dependency in build.gradle with fcm one :
 
-    compile 'ai.vernacular:chat-sdk-fcm:0.3.6'
+    compile 'ai.vernacular:chat-sdk-fcm:0.4.0'
 
 Or if you are using maven :
 ```xml
 <dependency>
   <groupId>ai.vernacular</groupId>
   <artifactId>chat-sdk-fcm</artifactId>
-  <version>0.3.6</version>
+  <version>0.4.0</version>
   <type>pom</type>
 </dependency>
 ```
